@@ -97,7 +97,6 @@ Eliminated the outliers in the price and odometer
 
 | Model | Train mse | Test mse | R2
 | :- |:------:|:------:| :-:
-|Baseline Model|38086809411056.89|259441966874.38| -0.02
 |Linear Regression| 43949336.94|44100238.79|0.65
 |Random Forest| 44598084.57| 44755331.99|0.64
 |Random Forest with Gridsearch|31241471.65|32856754.55|0.74
